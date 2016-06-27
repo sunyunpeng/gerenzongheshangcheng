@@ -1,0 +1,66 @@
+.toubu{
+    width: 96%;
+    height: 100px;
+
+    margin-left: 2%;
+    position: relative;
+    top: 0;
+    left: 0;
+    background: url("../Images/13d12e81a8b8af8101a34eb044abf96a.jpg")no-repeat;
+    background-size: 100%;
+}
+.gd{
+    margin-top: 10px;
+    width: 100%;
+    height: 100px;
+
+
+    position: relative;
+    top: 0;
+    left: 0;
+    background: url("../Images/zjl.jpg")no-repeat;
+    background-size: 100% ;
+     background-position: -3px -30px ;
+}
+.bt1{
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    left: 100px;
+    top: 10px;
+}
+.bt2{
+    position: absolute;
+    font-size: 12px;
+    color: #cecece;
+    font-weight: lighter;
+    left: 100px;
+    top: 40px;
+}
+.tb{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: url("../Images/a.png")no-repeat;
+    background-position: -10px -10px;
+    top: 15px;
+    left: 15px;
+}
+.gdtj{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 10%;
+    background: url("../Images/zjl%20tx.jpg")no-repeat;
+    background-size: 100% 100%;
+    top: 15px;
+    left: 15px;
+}
+.wz{
+    position: fixed;
+    left: 0;
+    bottom:0;
+
+}
