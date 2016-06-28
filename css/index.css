@@ -64,3 +64,128 @@
     bottom:0;
 
 }
+
+
+
+
+
+
+
+body,div,ul,li,a,img{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+.wrapper{position: relative;margin: -0.8rem auto;width: 100%;height: 200px;}
+.banner{width: 100%;height: 200px;overflow: hidden;}
+.imgList{width:100%;height:200px;z-index: 10;}
+.imgList li{display: none;}
+.imgList .imgOn{display: inline;}
+.bg{position: absolute;bottom: 0;width:100%;height: 40px;z-index:20;opacity: 0.4;filter:alpha(opacity=40);background: black;}
+.infoList{position: absolute;left: 10px;bottom: 10px;z-index: 30;}
+.infoList li{display: none;}
+.infoList .infoOn{display: inline;color: white;}
+.indexList{position: absolute;right: 10px;bottom: 5px;z-index: 30;}
+.indexList li{float: left;margin-right: 5px;padding: 2px 4px;border: 2px solid black;background: grey;cursor: pointer;}
+.indexList .indexOn{background: red;font-weight: bold;color: white;}
+
+
+
+.hyts{
+    width: 100%;
+    height: 180px;
+    background: white;
+    margin-top: 30px;
+}
+.hyts2{
+    width: 100%;
+    height: 180px;
+    background: white;
+    margin-top: 20px;
+
+}
+.hyts2 li{
+    list-style: none;
+    width: 24%;
+    height: 50%;
+    float: left;
+
+}
+
+.hyts-zt{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    padding: 5px  5px  5px  5px;
+    height: 30px;
+    line-height: 30px;
+}
+.hyts-list{
+    position: relative;
+}
+.hyts-list li{
+    list-style: none;
+    display: inline-block;
+    width: 32%;
+    height: 140px;
+    color: white;
+    text-align: center;
+}
+.hyts-list li:nth-child(1){
+    background: blue;
+}
+.hyts-list li:nth-child(2){
+    background: palevioletred;
+
+}
+.hyts-list li:nth-child(3){
+    background: #85bae4;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(1){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(2){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(3){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(4){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(5){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(6){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(7){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
+.hyts2 li:nth-child(8){
+    background: url("../Images/Apple%20iPhone.png")no-repeat;
+    border: 0px solid #cecece;
+    background-size: 100% 100%;
+    margin-left: 0.6%;
+}
